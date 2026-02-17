@@ -1,0 +1,66 @@
+# Blood Bond – Optimizing Blood Bank System through a comprehensive Smart Management System
+
+## 📌 Project Overview
+Blood Bond is a web-based blood bank management system developed using Java and Java Servlets.
+It helps donors, receivers, and administrators to connect on a single platform and manage blood donation activities efficiently.
+
+This project was developed as part of my major academic project.
+
+## 🎯 Objectives
+- To reduce delays in finding blood donors
+- To maintain real-time blood stock records
+- To improve communication between donors and receivers
+- To provide a secure and reliable management system
+
+### 👨‍💼 Admin Module
+- Secure login and authentication
+- Manage donor and receiver details
+- Monitor blood stock
+- Approve and manage requests
+
+### 🧑‍🤝‍🧑 Donor Module
+- User registration and login
+- View blood requests
+- Respond to emergency needs
+- Track donation history
+
+### 🏥 Receiver Module
+- Registration and login
+- Request blood
+- Track request status
+- View available donors
+
+
+## 🛠️ Technologies Used
+- Frontend: HTML, CSS, JavaScript, Bootstrap
+- Backend: Java, Java Servlets, JSP
+- Database: MySQL
+- Server: Apache Tomcat
+- Tools: Eclipse / NetBeans
+
+## 📊 System Modules
+- User Authentication Module
+- Donor Management Module
+- Receiver Management Module
+- Blood Stock Management Module
+- Request & Approval Module
+- Notification Module
+
+---
+
+## 🚀 Benefits
+- Faster access to blood donors
+- Reduced manual processing
+- Improved data accuracy
+- Secure data management
+- Easy-to-use interface
+
+## 📚 Conclusion
+The Blood Bond system provides an efficient and reliable platform for managing blood donation and blood bank operations.
+It improves emergency response and helps save lives.
+
+## 👩‍💻 Developed By
+Name: Sony Pasupuleti
+Project Type: Major Project  
+Backend: Java & Servlets  
+Year: 2026
